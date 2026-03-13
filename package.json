@@ -1,0 +1,24 @@
+{
+  "name": "lab-05-creating-routes-and-middleware-in-express-js-saimzaman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Task1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AWT-SP25-CUI/lab-05-creating-routes-and-middleware-in-express-js-SaimZaman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AWT-SP25-CUI/lab-05-creating-routes-and-middleware-in-express-js-SaimZaman/issues"
+  },
+  "homepage": "https://github.com/AWT-SP25-CUI/lab-05-creating-routes-and-middleware-in-express-js-SaimZaman#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
